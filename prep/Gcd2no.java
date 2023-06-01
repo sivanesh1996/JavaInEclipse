@@ -4,7 +4,7 @@ public class Gcd2no {
 
 	public static void main(String[] args) {
 		int no1=3;
-		int no2=9;
+		int no2=7;
 		int gcd=0;
 		int min=no1<no2?no1:no2;
 		//System.out.println(min);
