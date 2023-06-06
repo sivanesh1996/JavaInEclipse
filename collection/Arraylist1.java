@@ -76,6 +76,8 @@ public class Arraylist1 {
     //li1.remove(3);
    System.out.println("20:"+li1.remove(2));
     System.out.println("21:"+li1);
+    
+    System.out.println(li1.size());
 	}
 
 }
